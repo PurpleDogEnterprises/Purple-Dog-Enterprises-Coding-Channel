@@ -10,6 +10,6 @@ YouTube Channel: https://www.youtube.com/channel/UC121Llka7PK_A56uiQojxqQ
 
 Blog on Medium:  https://medium.com/@seanguthrie
 
-LinkedIn: linkedin.com/in/sean-patrick-guthrie-07384494
+LinkedIn: https://www.linkedin.com/in/sean-patrick-guthrie-07384494/
 
 Purple Dog Enterprises website: http://purpledogenterprises.com

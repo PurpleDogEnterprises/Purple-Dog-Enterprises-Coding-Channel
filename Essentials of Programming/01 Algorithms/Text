@@ -1,0 +1,26 @@
+(ALGORITHM TITLE SLIDE)
+
+What is an algorithm and why should you care?
+Note: This is a part of an ongoing series about the essentials of programming and coding.
+
+(ALGORITHM DEFINITION SLIDE)
+
+An ALGORITHM is a set of ordered instructions. I like to think of algorithms as very similar to recipes. You can use algorithms to complete any task as they are a series of steps that will take you from a known starting point to a predictable end point.
+
+Imagine that you are baking a cake. Your starting point is having a bunch of ingredients, your algorithm is your cake recipe, and your predictable end point is having a fully cooked and finished cake.
+
+Writing efficient algorithms and knowing when to apply them will allow you to create exciting, interesting, and useful programs.
+
+Let’s take a look at an algorithm which should seem familiar.
+
+(ALGORITHM EXAMPLE SLIDE)
+
+It is important to have both a clear starting point and a clear ending point since algorithms proceed one step at a time and because computers have to follow those logical instructions and steps. You would not want a program to start running halfway through an algorithm because it could produce unpredictable and undesirable results. For instance, in the earlier “Getting Ready for Work Algorithm” example some funny things would happen if you left your home without getting dressed first or if you took a shower after getting dressed.
+
+Some algorithms are better than others even if they produce the same results. All things being equal, better algorithms take fewer steps to get to the result (sometimes computer memory usage and other concerns really matter so this is guideline is not absolute, but it is a good rule of thumb nonetheless).
+
+In a nutshell, algorithm COMPLEXITY refers to the relationship of the input size to the number of steps it takes for an algorithm to run. Taking a look at complexity gives you an approximation of how fast or how slow an algorithm is going to be. We will be looking more at complexity when we discuss Big O notation.
+
+To summarize, algorithms range from being short and simple all the way to being incredibly elaborate but they all involve following a series of steps from a known starting point all the way to a predictable result.
+
+Up next we will take a look at CONDITIONALS and how they are used in programming.

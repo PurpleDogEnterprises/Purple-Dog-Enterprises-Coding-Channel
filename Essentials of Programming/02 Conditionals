@@ -1,0 +1,31 @@
+In the previous video I told you that an ALGORITHM is a set of ordered steps that take you from a known starting point to a predictable end point.  A CONDITIONAL is a type of step in an algorithm where a decision must be made. Computers follow logical instructions and they need to know how to handle different decisions so that programs can proceed no matter what the outcome of those selections may be.
+
+(CONDITIONAL DEFINITION SLIDE)
+
+IF-THEN-ELSE CONDITIONALS
+
+One of the first things that programmers learn is how to use IF-THEN-ELSE statements.  Every programming language has some version of these.  The syntax and exact usage may be different but they all accomplish the same thing, which is to allow for program execution based on conditionals.  The basic flow is: If some condition is true then do this, otherwise do that.
+
+Complex conditional statements can have more than just two choices.  As humans, the way we make decisions when we have several options to choose from is very different than computers.  We are able to select one item out of a group of choices, however a computer program must proceed by making binary decisions, meaning that it can only select between two things at a time.  Even the most complex conditional statements boil down to a series of binary choices.
+
+(IF-THEN-ELSE RESTAURANT SLIDE)
+
+In this example, let's say that you are deciding on where to go to eat.  Your favorite place is a pizza restaurant, your next choice would be a seafood restaurant, followed by a burger joint, and if all else fails you'll just cook something at home.
+Any options after the one that is chosen are completely ignored.  This means that an if-then-else chain has a hierarchy and that the cases that come first have a higher priority than the others because they are evaluated first.  Even if multiple conditions happen to all be true, the first true condition will be selected because it is higher in priority.  When writing your program it is important to think through the possible outcomes and decide which cases should come earlier in the sequence so that an important case doesn't get skipped.
+
+AND/OR CONDITIONALS
+
+If you want to check to make sure multiple conditions are met then you can use AND/OR statements.  Using AND will cause the program to do something if both conditions are true whereas using an OR statement will do something if one of the conditions is true.  Using these together with if-then-else statements will give you more power and control over your programs.
+
+SWITCH AND CASE CONDITIONALS
+
+The switch statement is used to allow you to perform different actions based on different conditions.  In some languages this was a common structure for conditional execution that makes it easier for a program to execute one of several cases depending on the value of the expression at the switch.
+
+(SWITCH CASE SLIDE PIZZA EXAMPLE) 
+
+The switch is evaluated once and then compared to the value of each case.  If there is a match then the block of code is executed.  Let's say that today is Sunday and you want to order a pizza from a restaurant that has daily specials.  In this example we'll use a switch and case approach instead of running through an entire if-then-else chain,  The switch is evaluated once, that value is compared to the value of each case, and if there is a match then the code in that block is executed.  
+Switch and case statements can be quicker than running through an if-then-else chain. 
+
+These were a few types of CONDITIONALS you will see as you are programming and coding.   To summarize, conditionals are steps in an algorithm where decisions are made.  Just like the algorithms that contain them, conditionals range from being simple and straightforward all the way to being highly complex.
+
+In the next video I'll be describing what LOOPS are and why they are used.

@@ -1,0 +1,49 @@
+****TITLE SLIDE****
+
+Welcome back to the Purple Dog Enterprises Coding Channel and this ongoing series about the essentials of programming.  Today I'll be covering a high-level overview of loops.
+
+****LOOP DEFINITION SLIDE****
+
+A loop is a programming structure that repeats a sequence of instructions until a specific condition is met.  Loops allow you to repeat a process over and over without having to write the same (potentially long) instructions each time you want your program to perform a task.
+
+Two major types of loops are FOR LOOPS and WHILE LOOPS.  A For loop will run a preset number of times whereas a While loop will run a variable number of times.  
+
+****FOR LOOPS SLIDE***
+
+For loops are used when you know how many times you want to run an algorithm before stopping.  Let's use loading dirty dishes into a dishwasher as an example of a For loop.
+
+Imagine that you have three dishes in your sink and you want to run an algorithm that has two steps: 1) pick up a dirty dish from the sink and 2) put the dish in the dishwasher.  You know you would need to run this process three times to get all of your dishes out of the sink.
+
+****WHILE LOOPS SLIDE****
+
+A While loop is similar to a For loop but a While loop runs a variable number of times and uses a CONDITIONAL.  Let's go back to the dishwasher example.  Say that you have run your dishwasher and you are now unloading it but one of the dishes is still dirty with food that is stuck to it.  You decide to run a scrubbing algorithm which has the following steps: 
+
+****SCRUBBING ALGORITHM SLIDE****
+
+1) use a scrub brush to scrub the dirty dish, 2) rinse the dish with water, 3) check if the dish is still dirty, 4) (CONDITIONAL) if the dish is still dirty then repeat the scrubbing algorithm but if it's clean then put it away in the cabinet.  This is a While loop because there is a conditional involved and because you do not know how many times you may have to repeat the scrubbing algorithm until you get your desired result of having a clean dish.
+
+****MAJOR TYPES OF LOOP USES SLIDE****
+
+Uses of loops include cycling through values, adding sums of numbers, repeating functions, and many other things.  Two major categories of loop uses are producing output and searching for information.
+
+****PRODUCING OUTPUT SLIDE****
+
+You can reduce a long series of repetitive instructions down to one instruction by using a loop. 
+
+****PRODUCING OUTPUT EXAMPLE SLIDE****
+
+For instance, a long series of multipyling numbers can be rewritten and condensed into a For loop.  You are able to complete the exact task you want to without explicitly writing repetitive instructions line after line after line.
+
+****SEARCHING FOR INFORMATION SLIDE****
+
+Having an algorithm  check through items in a list is incredibly useful.  Let's say that you have a list and you want to find a specific piece of information contained in that list.
+
+****SEARCHING FOR INFORMATION EXAMPLE SLIDE****
+
+In this example we would set a loop to iterate through every item until we found the one we wanted.  Once the answer we wanted was found, in this case a pet by the name of Fluffy, then the loop would stop and the leftover items in the list would not have to be checked.
+
+****SUMMARY AND CALL TO ACTION SLIDE****
+
+To summarize, a loop is a sequence of instructions that is repeated until a condition is met. The key difference between the two major types of loops is that a For loop will run a set number of times whereas a While loop will run a variable number of times.  Two major uses of loops are to produce output and to search for information.
+
+Remember to Like this video and subscribe.  Also check the show notes for additional links.  In the next part of this series I'll cover an introduction to VARIABLES.

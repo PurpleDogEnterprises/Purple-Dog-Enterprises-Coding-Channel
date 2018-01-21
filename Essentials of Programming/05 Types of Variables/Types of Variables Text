@@ -1,0 +1,28 @@
+TYPES OF VARIABLES/DATA TYPES
+Different computer languages use different kinds of variables and some have explicit rules.  Not every language uses all of the data types I'll be describing in this video but you'll run into most of these in your coding and programming journey.
+
+Integers
+An integer is a whole number.  In other words, there are no numbers to the right of where a decimal point would be.
+
+Floats
+Some languages make you distinguish between integers and numbers with decimals and this is where floats come in.  The term "floats" refers to floating-point numbers.  99.00 is technically a float even though it represents 99 even.  This is because of the way some languages make computer systems account for memory usage.
+
+Booleans
+A Boolean can only have one of two values: either True or False.  This makes it ideal for use in a program where you have to indicate if something is done or not done, on or off, or yes or no.
+
+Strings
+A string is a set of characters strung together.  Strings are represented by quotation marks.  Strings can be names, text, or any sequence of characters including spaces or special characters.
+
+Lists/Arrays
+An array is essentially a list of information or variables.  Let's say we have a list of variables: "A", "B", and "C".  Each item in the array is referred to by an index and the first item is said to be at index 0.  That means that in this example "A" is at index 0, "B" is at index 1, and "C" is at index 2.  Arrays make it easier to pass around contained groups of information through programs in order to do things as a whole.  Another note about arrays is that they can contain a mix of variable types so you may see something like a sting, an integer, and a Boolean all contained in one array.
+
+STRONG AND WEAK TYPED
+Some computer languages require you to declare what data type your variable will be before you use it and you'll get errors if you don't.  Such a language would be an example of a strongly typed language.
+
+A weak typed language is one which does not require you to explicitly say what a variable's data type is if you don't want to.
+There are drawbacks and benefits for both types but the reasons are a little beyond the scope of what I've covered so far so I'm going to hold off until getting into some of the videos about specific programming languages.
+
+SUMMARY AND CALL TO ACTION
+To summarize, there are quite a few data types but you may be using languages that don't use all of them.  If the language you're using is strongly typed you'll have to declare the type of variable you're using but in a weakly typed language you don't have to.
+
+Remember to Like and subscribe and in the next installment I'll be introducing FUNCTIONS.  Thanks for watching.

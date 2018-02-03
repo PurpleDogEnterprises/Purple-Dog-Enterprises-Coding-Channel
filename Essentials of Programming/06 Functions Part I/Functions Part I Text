@@ -1,0 +1,19 @@
+Hello and welcome back to The Purple Dog Enterprises Coding Channel.  In this video I'll be introducing FUNCTIONS and in the next video after this one we'll take a deeper dive into how functions work.
+
+As always, different computer languages do things in different ways and with different syntax but the concept of functions is universal:
+
+FUNCTIONS are self-contained blocks of code which may or may not take input and then run to arrive at a value.  They bear some similarity to factories because they can take some type of input and produce some type of output.  
+
+Functions allow you to reuse blocks of code without having to write every single step of the process each time you use it.  Therefore they are great to use when you have a commonly repeated task.
+
+Let's say that you're cooking breakfast for your friends and you want to make 10 omelettes.  The steps to make one omelette would look something like:
+
+* Open the refrigerator, take the eggs out, crack the eggs into a bowl, whisk the eggs, pour the eggs into pan, cook the eggs on one side, flip the eggs, cook until done, serve the eggs to your friend
+
+Writing this process enough times to make 10 omelettes would be a fairly lengthy set of instructions.  However, if we make "COOK OMELETTE" a function, we can call that function until we get as many omelettes as we want or need.  As a side note, when we say "call" a function it means we're telling the function to run.
+
+Declaring a function once and then repeating a function call as needed is a very important concept.  When learning about programming you will hear the acronym DRY, which stands for don't repeat yourself.  Not only will you save yourself from having to write many lines of extra code, if you do have to change a function you'll only have to do it once instead of every single time it appears in your code and this will really cut down on the chance of making mistakes and having bugs in your program.
+
+Functions "encapsulate" code meaning that they essentially combine multiple lines of code in order to perform a specific task.  That code is then easily repeatable and can be used throughout your program so you don't have to repeat yourself.
+
+Thanks for watching, remember to like and subscribe, and in the next video I'll explain how functions take input with PARAMETERS.

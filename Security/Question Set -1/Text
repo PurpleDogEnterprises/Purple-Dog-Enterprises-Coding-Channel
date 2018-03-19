@@ -1,1 +1,63 @@
-Text
+I recently passed the CompTIA Security+ SYO-501 exam.  Practice questions really helped me a lot when I was studying so I am coming up with a few batches of questions and explanations to share which may help you as well.  Here is the first set:
+
+QUESTION 1
+Tony and Steve decide to encrypt their communication using an asymmetric encryption algorithm.  Which one of the following would be the best to use while meeting their specifications?
+    A) AES with a 256 bit key
+    B) DES
+    C) 3DES
+    D) RSA
+    E) Blowfish
+    F) Twofish
+
+QUESTION 2
+Stark Industries wants to evaluate the effectiveness of a new biometric security system.  Which of the following will provide the best measure of the system's accuracy?
+    A) A high FRR
+    B) A low FRR
+    C) A high FAR
+    D) A low FAR
+    E) A high CER
+    F) A low CER
+
+QUESTION 3
+Bruce is setting up an 802.11ac network and wants to ensure the highest level of security.  Which of these options would be the best to meet his specifications?
+    A) WPA2 with TKIP
+    B) WPA2 with AES
+    C) WPA2 with SSL
+    D) WPA2 with MD5
+
+QUESTION 4
+Wayne Enterprises is implementing a COPE policy.  Which of the following would you recommend to provide security under such a system?
+    A) Full device encryption on employee-owned phones
+    B) Implementing a PIA
+    C) Requiring cable locks
+    D) Remote wiping capability
+
+QUESTION 5
+Natasha suspects an employee is operating an unauthorized AP in the building.  Which tool would she use to try and detect it? 
+    A) Wireless scanner
+    B) RIPEMD
+    C) OpenID Connect
+    D) Agentless NAC
+
+****************************
+ANSWER 1
+D) RSA
+The key term in this question is "asymmetric algorith."  RSA is the only asymmetric choice as AES , DES, 3DES, Blowfish, and Twofish are all symmetric encryption algorithms.
+
+ANSWER 2
+F) A low CER
+A low crossover error rate (CER) indicates a system is accurate whereas a high CER indicates a less accurate system. A false acceptance rate (FAR) and false rejection rate (FRR) can vary due to the sensitivity settings of the system but do not give any indication of accuracy by themselves whether they are individually high or individually low.
+
+ANSWER 3
+B) WPA2 with AES
+The best choice is Wi-Fi Protected Access II (WPA2) with Advanced Encryption Standard (AES) is the best choice to secure as it is the current best-practice and offers more security than the other choices.  Temporal Key Integrity Protocol (TKIP) has been deprecated due to known security vulnerabilities.   Secure Sockets Layer (SSL) has been replaced with Transport Layer Security (TLS) and is not used with wireless protocols. Message Digest 5 (MD5) is used for hashing and verifying integrity.
+
+ANSWER 4
+D) Remote wiping capability
+Corporate-owned, personally enabled (COPE) approaches often use remote wiping capability to allow remote signals to erase data from the device for various reasons including loss or theft of the device or if the employee leaves the organization.  A privacy impact assessment (PIA) is a process which assists organizations in identifying and minimizing the privacy risks of new projects or policies.  Cable locks are a physical security device usually used with equipment such as laptop computers. Full device encryption on employee-owned phones​ can be a good approach to enhancing security but in this question we are dealing with phones owned by the business and not the employee.
+
+ANSWER 5
+A) Wireless scanner
+An AP in this context stands for access point.  A wireless scanner is able to detect all access points on a network.  You will be able to compare the wireless scanner reading to a list of authorized access points and spot the unauthorized one.  RIPEMD is a cryptographic hash function.  OpenID Connect is a decentralized authentication protocol.  Agentless NAC technology is one way of verifying that an end station complies with access policy.
+
+I hope this first set of questions has helped.  Stay tuned for more sets of practice questions and answer explanations and don't forget to like and subscribe.
